@@ -7,7 +7,7 @@ pygame.init()
 
 WIN_WIDTH = 500
 WIN_HEIGHT = 700
-SRC_DIR = '/home/mdnaina/project/resources/imgs'
+SRC_DIR = 'images'
 
 
 BIRD_IMGS = [pygame.transform.scale2x(pygame.image.load(os.path.join(SRC_DIR, f'bird{str(i)}.png'))) for i in range(1,4)] # looping over three images by for loop
