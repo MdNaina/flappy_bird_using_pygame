@@ -27,7 +27,7 @@ class Bird:
     ROT_VOL = 20 
     ANIMATION_TIME = 5 
 
-    
+
     def __init__(self, x, y):
         self.x = x
         self.y = y
@@ -278,15 +278,15 @@ def main():
             win.blit(text, (100, 200))
             win.blit(text2, (65, 300))
             pygame.display.update()
-            
+
 
     pygame.quit()
     quit()
 
-        
 
 
-main()        
+
+main() 
 
 
 
