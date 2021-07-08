@@ -25,4 +25,4 @@
 
 
 
-[thumbnail]: https://github.com/MdNaina/${repo}/blob/main/screenshots/thumbnail.png "flappy bird"
+[thumbnail]: https://github.com/MdNaina/flappy_bird_using_pygame/blob/main/screenshots/thumbnail.png "flappy bird"
