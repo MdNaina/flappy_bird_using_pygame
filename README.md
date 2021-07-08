@@ -25,4 +25,4 @@
 
 
 
-[thumbnail]: https://github.com/MdNaina/steganograph_using_flask/blob/main/screenshots/thumbnail.png "flappy bird"
+[thumbnail]: https://github.com/MdNaina/${repo}/blob/main/screenshots/thumbnail.png "flappy bird"
